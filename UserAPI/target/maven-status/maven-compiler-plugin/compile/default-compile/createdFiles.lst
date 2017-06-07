@@ -1,0 +1,10 @@
+com\spi\rest\userapi\service\UserProxy.class
+com\spi\rest\userapi\tempsecurity\ApiServerSecurity.class
+com\spi\rest\userapi\temp\property\PropertyGetValues.class
+com\spi\rest\userapi\tempfilter\ApiServerFilterRequest.class
+com\spi\rest\userapi\temp\security\IApiServerSecurityInterface.class
+com\spi\rest\userapi\tempsecurity\IApiServerSecurityInterface.class
+com\spi\rest\userapi\temp\property\ApiSecurityProperties.class
+com\spi\rest\userapi\temp\security\ApiServerSecurity.class
+com\spi\rest\userapi\service\UserService.class
+com\spi\rest\userapi\temp\filter\ApiServerFilterRequest.class

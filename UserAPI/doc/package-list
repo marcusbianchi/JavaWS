@@ -1,0 +1,6 @@
+com.spi.rest.commons.filter
+com.spi.rest.commons.model
+com.spi.rest.commons.property
+com.spi.rest.commons.security
+com.spi.rest.userapi.model
+com.spi.rest.userapi.service

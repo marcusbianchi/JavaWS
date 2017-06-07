@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="Libs/ch.qos.logback.classic_1.0.0.jar"/>
+	<classpathentry kind="lib" path="Libs/ch.qos.logback.core_1.0.0.jar"/>
+	<classpathentry kind="lib" path="Libs/j-Interop_3_0_0.tar.gz"/>
+	<classpathentry kind="lib" path="Libs/j-interop.jar"/>
+	<classpathentry kind="lib" path="Libs/j-interop.tar"/>
+	<classpathentry kind="lib" path="Libs/org.openscada.external.sdk-R.1.0.0.zip"/>
+	<classpathentry kind="lib" path="Libs/org.openscada.jinterop.core_2.0.8.201303051454.jar"/>
+	<classpathentry kind="lib" path="Libs/org.openscada.jinterop.core.source_2.0.8.201303051454.jar"/>
+	<classpathentry kind="lib" path="Libs/org.openscada.jinterop.deps_1.0.0.201303051454.jar"/>
+	<classpathentry kind="lib" path="Libs/org.openscada.jinterop.deps.source_1.0.0.201303051454.jar"/>
+	<classpathentry kind="lib" path="Libs/org.openscada.jinterop.sdk-R.1.0.0.zip"/>
+	<classpathentry kind="lib" path="Libs/org.openscada.opc.dcom_1.0.0.201303051455.jar"/>
+	<classpathentry kind="lib" path="Libs/org.openscada.opc.dcom.source_1.0.0.201303051455.jar"/>
+	<classpathentry kind="lib" path="Libs/org.openscada.opc.lib_1.0.0.201303051455.jar"/>
+	<classpathentry kind="lib" path="Libs/org.openscada.opc.lib.source_1.0.0.201303051455.jar"/>
+	<classpathentry kind="lib" path="Libs/org.openscada.utgard.sdk-R.1.0.0.zip"/>
+	<classpathentry kind="lib" path="Libs/slf4j.api_1.6.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

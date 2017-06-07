@@ -1,0 +1,17 @@
+com\spi\rest\accesscontrol\database\general\AbstractDatabaseBuilding.class
+com\spi\rest\accesscontrol\database\dynamo\user\DynamoUser.class
+com\spi\rest\accesscontrol\model\user\User.class
+com\spi\rest\accesscontrol\database\dynamo\user\CompanyIDField.class
+com\spi\rest\accesscontrol\database\dynamo\user\DynamoUserFactory.class
+com\spi\rest\accesscontrol\database\dynamo\user\UserIDField.class
+com\spi\rest\accesscontrol\model\user\Permission.class
+com\spi\rest\accesscontrol\database\dynamo\user\UserDescriptionField.class
+com\spi\rest\accesscontrol\database\dynamo\general\IHashIDField.class
+com\spi\rest\accesscontrol\database\dynamo\general\AbstractDynamoObject.class
+com\spi\rest\accesscontrol\database\dynamo\general\DynamoOperations.class
+com\spi\rest\accesscontrol\database\dynamo\general\DynamoBuilding.class
+com\spi\rest\accesscontrol\model\user\EndPoint.class
+com\spi\rest\accesscontrol\database\general\AbtractDatabaseObject.class
+com\spi\rest\accesscontrol\database\dynamo\general\ISortIDField.class
+com\spi\rest\accesscontrol\database\dynamo\general\IDynamoFactory.class
+com\spi\rest\accesscontrol\database\dynamo\general\IDescriptionField.class

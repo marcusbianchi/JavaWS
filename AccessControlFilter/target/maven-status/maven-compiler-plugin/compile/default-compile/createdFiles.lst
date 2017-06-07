@@ -1,0 +1,10 @@
+com\spi\rest\accesscontrolfilter\security\IServerAuthInterface.class
+com\spi\rest\accesscontrolfilter\security\AuthServer.class
+com\spi\rest\accesscontrolfilter\security\UserProxy.class
+com\spi\rest\accesscontrolfilter\property\ApiSecurityProperties.class
+com\spi\rest\accesscontrolfilter\property\PropertyGetValues.class
+com\spi\rest\accesscontrolfilter\security\PermissionHandler.class
+com\spi\rest\accesscontrolfilter\filter\AuthServerFilterRequest.class
+com\spi\rest\accesscontrolfilter\filter\ApiClientFilterRequest.class
+com\spi\rest\accesscontrolfilter\s3\S3Handler.class
+com\spi\rest\accesscontrolfilter\security\RestClientHandler.class

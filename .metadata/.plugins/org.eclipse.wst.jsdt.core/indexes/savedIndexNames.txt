@@ -1,0 +1,10 @@
+INDEX VERSION 1.3+C:\Users\marcuss.SPI\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2609844883.index
+3489092386.index
+1919365538.index
+2648364834.index
+3257904333.index
+1188239404.index
+1788526899.index
+2133345021.index
+513839418.index

@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Wed Apr 20 10:01:17 BRT 2016
+org.eclipse.jst.j2ee.server\:AccessControlPackage=WEB-INF/lib/AccessControlPackage-0.1.2.jar
+org.eclipse.jst.j2ee.server\:AccessControlFilter=WEB-INF/lib/AccessControlFilter-0.1.1.jar
+org.eclipse.jst.j2ee.server\:CloeeCommonsPackage=WEB-INF/lib/br.com.cloee.commons.central-0.3.5.jar
